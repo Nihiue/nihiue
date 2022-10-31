@@ -1,5 +1,5 @@
 
-![stats](https://www.nihi.me/github-stats/card)
+![stats](https://www.nihi.me/github-stats/card?v=1031)
 
 ## ✒️ Blog
 
@@ -7,7 +7,7 @@
 
 ## ⚡ Language
 
-![toplang](https://www.nihi.me/github-stats/toplang)
+![toplang](https://www.nihi.me/github-stats/toplang?v=1031)
 
 ## 🚣 Application
 
@@ -45,6 +45,6 @@
 
 ## 💡 Demo
 
-[![pin](https://www.nihi.me/github-stats/pin?repo=proxy-reactive-demo)](https://github.com/Nihiue/proxy-reactive-demo)
+[![pin](https://www.nihi.me/github-stats/pin?repo=proxy-reactive-demo?v=1031)](https://github.com/Nihiue/proxy-reactive-demo)
 
 [![pin](https://www.nihi.me/github-stats/pin?repo=node-perf-demo)](https://github.com/Nihiue/node-perf-demo)
