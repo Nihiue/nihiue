@@ -45,6 +45,6 @@
 
 ## 💡 Demo
 
-[![pin](https://www.nihi.me/github-stats/pin?repo=proxy-reactive-demo?v=1031)](https://github.com/Nihiue/proxy-reactive-demo)
+[![pin](https://www.nihi.me/github-stats/pin?repo=proxy-reactive-demo&v=1031)](https://github.com/Nihiue/proxy-reactive-demo)
 
 [![pin](https://www.nihi.me/github-stats/pin?repo=node-perf-demo)](https://github.com/Nihiue/node-perf-demo)
