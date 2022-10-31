@@ -19,7 +19,7 @@
   <img alt="Github Stats" src="https://www.nihi.me/github-stats/card">
 </picture>
 
-<br/>
+&ensp;
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.nihi.me/github-stats/toplang?theme=dracula">
@@ -35,7 +35,7 @@
   </picture>
 </a>
 
-<br/>
+&ensp;
 
 <a href="https://github.com/Nihiue/open-ip-kvm">
   <picture>
@@ -44,7 +44,7 @@
   </picture>
 </a>
 
-<br/>
+&ensp;
 
 <a href="https://github.com/Nihiue/spa-renderer">
   <picture>
@@ -53,8 +53,7 @@
   </picture>
 </a>
 
-<br/>
-
+&ensp;
 
 ## 🚀 Library
 
@@ -65,7 +64,7 @@
   </picture>
 </a>
 
-<br/>
+&ensp;
 
 <a href="https://github.com/Nihiue/nbconvert">
   <picture>
@@ -74,7 +73,7 @@
   </picture>
 </a>
 
-<br/>
+&ensp;
 
 
 ## 🎮 Fun & Hack
@@ -86,7 +85,7 @@
   </picture>
 </a>
 
-<br/>
+&ensp;
 
 <a href="https://github.com/Nihiue/JumpHelper">
   <picture>
@@ -95,7 +94,7 @@
   </picture>
 </a>
 
-<br/>
+&ensp;
 
 <a href="https://github.com/Nihiue/LetMeRaid">
   <picture>
@@ -104,7 +103,7 @@
   </picture>
 </a>
 
-<br/>
+&ensp;
 
 <a href="https://github.com/Nihiue/perfect-loop">
   <picture>
@@ -113,7 +112,7 @@
   </picture>
 </a>
 
-<br/>
+&ensp;
 
 ## ⛏️ Tools
 
@@ -124,7 +123,7 @@
   </picture>
 </a>
 
-<br/>
+&ensp;
 
 <a href="https://github.com/Nihiue/pageshot">
   <picture>
@@ -133,7 +132,7 @@
   </picture>
 </a>
 
-<br/>
+&ensp;
 
 <a href="https://github.com/Nihiue/libreoffice-portal">
   <picture>
@@ -142,7 +141,7 @@
   </picture>
 </a>
 
-<br/>
+&ensp;
 
 <a href="https://github.com/Nihiue/s3-sync">
   <picture>
@@ -151,7 +150,7 @@
   </picture>
 </a>
 
-<br/>
+&ensp;
 
 ## 💡 Demo
 
@@ -162,7 +161,7 @@
   </picture>
 </a>
 
-<br/>
+&ensp;
 
 <a href="https://github.com/Nihiue/node-perf-demo">
   <picture>
@@ -171,4 +170,4 @@
   </picture>
 </a>
 
-<br/>
+&ensp;
