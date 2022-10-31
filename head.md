@@ -6,9 +6,7 @@
 
 * [Tech Blog](https://www.zhihu.com/column/deepfe)
 
-* Career
-
-  <picture>
+* Career &ensp;<picture>
     <img style="height: 22px" alt="intel" src="https://user-images.githubusercontent.com/5763301/199003163-a9746ca7-671f-498a-ad44-0bc2dbe3504c.png">
   </picture>
   &ensp;&ensp;
