@@ -29,6 +29,9 @@
 
 [![pin](https://www.nihi.me/github-stats/pin?repo=gesture-gamepad)](https://github.com/Nihiue/gesture-gamepad)
 
+
+[![pin](https://www.nihi.me/github-stats/pin?repo=JumpHelper)](https://github.com/Nihiue/JumpHelper)
+
 [![pin](https://www.nihi.me/github-stats/pin?repo=LetMeRaid)](https://github.com/Nihiue/LetMeRaid)
 
 [![pin](https://www.nihi.me/github-stats/pin?repo=perfect-loop)](https://github.com/Nihiue/perfect-loop)
