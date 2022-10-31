@@ -8,7 +8,19 @@
 
 * Career
 
-  <img style="height: 22px" src="./assets/intel-2022.png">&ensp;&ensp;<img style="height: 18px;" src="./assets/alibaba.png">&ensp;&ensp;<img style="height: 20px;" src="./assets/Heywhale.png"> <!-- &ensp;&ensp;<img style="height: 22px;" src="./assets/byte-dance.svg"> -->
+  <picture>
+    <img style="height: 22px" alt="intel" src="./assets/intel-2022.png">
+  </picture>
+  &ensp;&ensp;
+  <picture>
+    <img style="height: 18px" alt="alibaba" src="./assets/alibaba.png">
+  </picture>
+  &ensp;&ensp;
+  <picture>
+    <img style="height: 20px;" alt="Heywhale" src="./assets/Heywhale.png">
+  </picture>
+
+  <!-- &ensp;&ensp;<img style="height: 22px;" src="./assets/byte-dance.svg"> -->
 
 
 ## ⚡ Overview
