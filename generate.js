@@ -24,7 +24,7 @@ const repoList = {
 let output = headContent;
 
 Object.keys(repoList).forEach((cateName) => {
-  output += `## ${cateName}\n`;
+  output += `## ${cateName}\n\n`;
   output += repoList[cateName].map(repoRender).join('');
 });
 

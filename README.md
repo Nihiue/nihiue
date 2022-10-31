@@ -8,21 +8,15 @@
 
 * Career
 
-  <picture>
-    <img style="height: 22px" alt="intel" src="https://user-images.githubusercontent.com/5763301/199003163-a9746ca7-671f-498a-ad44-0bc2dbe3504c.png">
-  </picture>
+  <img style="height: 22px" alt="intel" src="https://user-images.githubusercontent.com/5763301/199003163-a9746ca7-671f-498a-ad44-0bc2dbe3504c.png">
   &ensp;&ensp;
-  <picture>
-    <img style="height: 18px" alt="alibaba" src="https://user-images.githubusercontent.com/5763301/199003177-6174f6a7-87f4-4c01-9a13-501d5383bedf.png">
-  </picture>
+  <img style="height: 18px" alt="alibaba" src="https://user-images.githubusercontent.com/5763301/199003177-6174f6a7-87f4-4c01-9a13-501d5383bedf.png">
   &ensp;&ensp;
-  <picture>
-    <img style="height: 20px;" alt="Heywhale" src="https://user-images.githubusercontent.com/5763301/199003185-3d0bb6c4-c652-44e2-b937-616a2e6ee47e.png">
-  </picture>
+  <img style="height: 20px;" alt="Heywhale" src="https://user-images.githubusercontent.com/5763301/199003185-3d0bb6c4-c652-44e2-b937-616a2e6ee47e.png">
+
   <!-- &ensp;&ensp;
-  <picture>
     <img style="height: 22px;" alt="Byte-dance" src="https://user-images.githubusercontent.com/5763301/199003374-7e4335a0-b6cf-4043-8a1d-0184605f1742.svg">
-  </picture> -->
+   -->
 
 ## ⚡ Overview
 
@@ -37,6 +31,7 @@
 </picture></p>
 
 ## 🚣 Application
+
 
 <p><a href="https://github.com/Nihiue/Thori-dal">
 <picture>
@@ -60,6 +55,7 @@
 </a></p>
 ## 🚀 Library
 
+
 <p><a href="https://github.com/Nihiue/little-byte">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.nihi.me/github-stats/pin?repo=little-byte&theme=dracula">
@@ -74,6 +70,7 @@
 </picture>
 </a></p>
 ## 🎮 Fun & Hack
+
 
 <p><a href="https://github.com/Nihiue/gesture-gamepad">
 <picture>
@@ -104,6 +101,7 @@
 </a></p>
 ## ⛏️ Tools
 
+
 <p><a href="https://github.com/Nihiue/loki-enhance-middleware">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.nihi.me/github-stats/pin?repo=loki-enhance-middleware&theme=dracula">
@@ -132,6 +130,7 @@
 </picture>
 </a></p>
 ## 💡 Demo
+
 
 <p><a href="https://github.com/Nihiue/proxy-reactive-demo">
 <picture>
