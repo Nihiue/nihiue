@@ -1,16 +1,50 @@
-### Hi there 👋
 
-<!--
-**Nihiue/nihiue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![stats](https://www.nihi.me/github-stats/card)
 
-Here are some ideas to get you started:
+![toplang](https://www.nihi.me/github-stats/toplang)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Blog
+
+✍️ [Link](https://www.zhihu.com/column/deepfe)
+
+
+## 🚣 Application
+
+[![pin](https://www.nihi.me/github-stats/pin?repo=Thori-dal)](https://github.com/Nihiue/Thori-dal)
+
+[![pin](https://www.nihi.me/github-stats/pin?repo=open-ip-kvm)](https://github.com/Nihiue/open-ip-kvm)
+
+[![pin](https://www.nihi.me/github-stats/pin?repo=spa-renderer)](https://github.com/Nihiue/spa-renderer)
+
+
+## ⚡ Tools
+
+[![pin](https://www.nihi.me/github-stats/pin?repo=loki-enhance-middleware)](https://github.com/Nihiue/loki-enhance-middleware)
+
+[![pin](https://www.nihi.me/github-stats/pin?repo=pageshot)](https://github.com/Nihiue/pageshot)
+
+[![pin](https://www.nihi.me/github-stats/pin?repo=libreoffice-portal)](https://github.com/Nihiue/libreoffice-portal)
+
+[![pin](https://www.nihi.me/github-stats/pin?repo=s3-sync)](https://github.com/Nihiue/s3-sync)
+
+## 🚀 Library
+
+[![pin](https://www.nihi.me/github-stats/pin?repo=little-byte)](https://github.com/Nihiue/little-byte)
+
+[![pin](https://www.nihi.me/github-stats/pin?repo=nbconvert)](https://github.com/Nihiue/nbconvert)
+
+
+## 🎮 Fun & Hack
+
+[![pin](https://www.nihi.me/github-stats/pin?repo=gesture-gamepad)](https://github.com/Nihiue/gesture-gamepad)
+
+[![pin](https://www.nihi.me/github-stats/pin?repo=LetMeRaid)](https://github.com/Nihiue/LetMeRaid)
+
+[![pin](https://www.nihi.me/github-stats/pin?repo=perfect-loop)](https://github.com/Nihiue/perfect-loop)
+
+## 💡 Demo
+
+[![pin](https://www.nihi.me/github-stats/pin?repo=proxy-reactive-demo)](https://github.com/Nihiue/proxy-reactive-demo)
+
+[![pin](https://www.nihi.me/github-stats/pin?repo=node-perf-demo)](https://github.com/Nihiue/node-perf-demo)
