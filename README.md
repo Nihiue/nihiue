@@ -1,17 +1,20 @@
 
+## 😃 Me
+
+* Developer and Geek
+
+* Keep 3 Cats 🐱😽😺
+
+* [Blog](https://www.zhihu.com/column/deepfe)
+
+* Career
+
+  <img style="height: 22px" src="./assets/intel-2022.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img style="height: 18px;" src="./assets/alibaba.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img style="height: 20px;" src="./assets/Heywhale.png"> <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img style="height: 22px;" src="./assets/byte-dance.svg"> -->
+
+
+## ⚡ Overview
+
 ![stats](https://www.nihi.me/github-stats/card?v=1031)
-
-## 💼 Career
-
-<img style="height: 22px" src="./assets/intel-2022.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img style="height: 18px;" src="./assets/alibaba.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img style="height: 20px;" src="./assets/Heywhale.png">
-
-<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img style="height: 22px;" src="./assets/byte-dance.svg"> -->
-
-## ✒️ Blog
-
-[Visit Blog](https://www.zhihu.com/column/deepfe)
-
-## ⚡ Language
 
 ![toplang](https://www.nihi.me/github-stats/toplang?v=1031)
 
