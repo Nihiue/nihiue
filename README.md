@@ -1,13 +1,14 @@
 
 ![stats](https://www.nihi.me/github-stats/card)
 
+
+## ✒️ Blog
+
+ [Visit Blog](https://www.zhihu.com/column/deepfe)
+
+## ⚡ Language
+
 ![toplang](https://www.nihi.me/github-stats/toplang)
-
-
-## Blog
-
-✍️ [Link](https://www.zhihu.com/column/deepfe)
-
 
 ## 🚣 Application
 
@@ -17,16 +18,6 @@
 
 [![pin](https://www.nihi.me/github-stats/pin?repo=spa-renderer)](https://github.com/Nihiue/spa-renderer)
 
-
-## ⚡ Tools
-
-[![pin](https://www.nihi.me/github-stats/pin?repo=loki-enhance-middleware)](https://github.com/Nihiue/loki-enhance-middleware)
-
-[![pin](https://www.nihi.me/github-stats/pin?repo=pageshot)](https://github.com/Nihiue/pageshot)
-
-[![pin](https://www.nihi.me/github-stats/pin?repo=libreoffice-portal)](https://github.com/Nihiue/libreoffice-portal)
-
-[![pin](https://www.nihi.me/github-stats/pin?repo=s3-sync)](https://github.com/Nihiue/s3-sync)
 
 ## 🚀 Library
 
@@ -42,6 +33,16 @@
 [![pin](https://www.nihi.me/github-stats/pin?repo=LetMeRaid)](https://github.com/Nihiue/LetMeRaid)
 
 [![pin](https://www.nihi.me/github-stats/pin?repo=perfect-loop)](https://github.com/Nihiue/perfect-loop)
+
+## 📐 Tools
+
+[![pin](https://www.nihi.me/github-stats/pin?repo=loki-enhance-middleware)](https://github.com/Nihiue/loki-enhance-middleware)
+
+[![pin](https://www.nihi.me/github-stats/pin?repo=pageshot)](https://github.com/Nihiue/pageshot)
+
+[![pin](https://www.nihi.me/github-stats/pin?repo=libreoffice-portal)](https://github.com/Nihiue/libreoffice-portal)
+
+[![pin](https://www.nihi.me/github-stats/pin?repo=s3-sync)](https://github.com/Nihiue/s3-sync)
 
 ## 💡 Demo
 
