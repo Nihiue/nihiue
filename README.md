@@ -3,9 +3,9 @@
 
 ## 💼 Career
 
-<img style="height: 26px" src="./assets/intel-2022.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img style="height: 22px;" src="./assets/alibaba.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img style="height: 24px;" src="./assets/Heywhale.png">
+<img style="height: 22px" src="./assets/intel-2022.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img style="height: 18px;" src="./assets/alibaba.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img style="height: 20px;" src="./assets/Heywhale.png">
 
-<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img style="height: 24px;" src="./assets/byte-dance.svg"> -->
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img style="height: 22px;" src="./assets/byte-dance.svg"> -->
 
 ## ✒️ Blog
 
