@@ -24,8 +24,8 @@ const repoList = {
 let output = headContent;
 
 Object.keys(repoList).forEach((cateName) => {
-  output += `## ${cateName}\n\n`;
-  output += repoList[cateName].map(repoRender).join('\n');
+  output += `\n## ${cateName}\n\n`;
+  output += repoList[cateName].map(repoRender).join('');
 });
 
 fs.writeFileSync('./README.md', output, 'utf-8');

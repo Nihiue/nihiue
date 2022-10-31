@@ -29,4 +29,3 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://www.nihi.me/github-stats/toplang?theme=dracula">
   <img alt="Top Lang" src="https://www.nihi.me/github-stats/toplang?theme=default">
 </picture></p>
-
