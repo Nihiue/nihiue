@@ -6,8 +6,8 @@ function repoRender(name) {
   return `
 <p><a href="https://github.com/Nihiue/${name}">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.nihi.me/github-stats/pin?repo=${name}&theme=dracula">
-  <img alt="Repo: ${name}" src="https://www.nihi.me/github-stats/pin?repo=${name}&theme=default">
+  <source media="(prefers-color-scheme: dark)" srcset="https://la.nihi.me/github-stats/pin?repo=${name}&theme=dracula">
+  <img alt="Repo: ${name}" src="https://la.nihi.me/github-stats/pin?repo=${name}&theme=default">
 </picture>
 </a></p>
 `;

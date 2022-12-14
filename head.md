@@ -20,11 +20,11 @@
 ## ⚡ Overview
 
 <p><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.nihi.me/github-stats/card?theme=dracula">
-  <img alt="Github Stats" src="https://www.nihi.me/github-stats/card?theme=default">
+  <source media="(prefers-color-scheme: dark)" srcset="https://la.nihi.me/github-stats/card?theme=dracula">
+  <img alt="Github Stats" src="https://la.nihi.me/github-stats/card?theme=default">
 </picture></p>
 
 <p><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.nihi.me/github-stats/toplang?theme=dracula">
-  <img alt="Top Lang" src="https://www.nihi.me/github-stats/toplang?theme=default">
+  <source media="(prefers-color-scheme: dark)" srcset="https://la.nihi.me/github-stats/toplang?theme=dracula">
+  <img alt="Top Lang" src="https://la.nihi.me/github-stats/toplang?theme=default">
 </picture></p>
